@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693138250663",
+    "project_id": "sign-in-bffbd",
+    "storage_bucket": "sign-in-bffbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693138250663:android:ee51d04628baca6f70f482",
+        "android_client_info": {
+          "package_name": "com.example.demo_google_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693138250663-q42gp1a89gsa4oh7e61j3n29c8qac4o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC21viXTirdsWUjsbz0lxfvhCe_Tf06U6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693138250663-q42gp1a89gsa4oh7e61j3n29c8qac4o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
